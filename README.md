@@ -1,5 +1,3 @@
-# BridgeHealthMonitoring  
-
 ## Bridge Structure and Health Monitoring Ontology  
 
 The bshm.owl file contains the semantic schema which can be used to represent the domain knowledge of bridge structure, bridge SHM systems and sensory data, etc. The BSHM ontology is built on top of the W3C recommended SSN and SOSA ontologies.  
